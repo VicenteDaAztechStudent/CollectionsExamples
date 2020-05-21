@@ -7,6 +7,6 @@ We take a quick dive on a few Collections principals, we create an ArrayList.jav
     selecting the index position.
   *2nd ArrayList is 'customerList', where we create Customer object type isntances from the Customer.java class, and 
     add them to customerList.
-    We manipulate the index where a Customer is deployed to in the customerList, and we prnt all values of the list with 
+    We manipulate the index where a Customer is deployed to in the customerList, and we print all values of the list with 
     a for-each loop.
   
